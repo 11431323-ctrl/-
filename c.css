@@ -1,6 +1,23 @@
-h1{
-    margin-left: 35vw;
-    background-color: bisque;
-    width: 500px;
 
+body {
+    background-color: gainsboro;
+    
+}
+#whole {
+    background-color: white;
+    padding: 3rem;
+    text-align: center;   
+    transition: 0.3s;
+
+}
+#whole:hover{
+    transform: scale(1.1);
+}
+#h1 {
+    color: #333;
+    margin: 0;
+}
+#whole2{
+
+    background-color:white;
 }
