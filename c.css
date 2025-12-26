@@ -20,4 +20,8 @@ body {
 #whole2{
 
     background-color:white;
+    transition: 0.3s;
+}
+#whole2:hover{
+    transform: scale(1.01);
 }
